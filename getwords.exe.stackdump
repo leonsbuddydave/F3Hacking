@@ -1,9 +1,0 @@
-Exception: STATUS_INTEGER_DIVIDE_BY_ZERO at eip=004015B4
-eax=2AB3488B ebx=00000000 ecx=0028D000 edx=00000000 esi=61278128 edi=611A1EDB
-ebp=0028AC68 esp=0028A920 program=C:\Users\LeonsBuddyDave\Dropbox\Terminal\getwords.exe, pid 3816, thread main
-cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
-Stack trace:
-Frame     Function  Args
-0028AC68  004015B4  (00000003, 0028AC90, 20010100, 61277E22)
-0028ACF8  61007535  (00000000, 0028CD78, 61006B20, 00000000)
-End of stack trace
