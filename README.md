@@ -7,7 +7,15 @@ length word file and returns a handful of similar words.
 
 /index.html
 
-Contains the core of everything else. HTML, CSS and JS currently all in this one file, probably going to separate those soon for clarity's sake.
+Links everything together.
+
+/terminal.js
+
+Controls everything.
+
+/styles.css
+
+Makes everything look pretty.
 
 /server.php
 
