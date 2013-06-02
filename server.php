@@ -6,8 +6,8 @@
 		exit;
 	}
 	
-	$length = $_GET['length'];
-	$count = $_GET['count'];
+	$length = intval($_GET['length']);
+	$count = intval($_GET['count']);
 	
 	exec("./getwords {$length} {$count} 40", $results, $exitstatus);
 	
